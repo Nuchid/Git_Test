@@ -1,1 +1,10 @@
 Gitを使ってみます。
+
+
+
+
+develop branch でadd,commit,pushまで行いました。
+push はmainとdevelopの両方。（mainにswitchせずにpushしたけど大丈夫かな・・・）
+main branchでは先ほどのdevelop branchでの追加は見えません。
+
+ここまで書いたところでmain branchをadd,commitしてみます。
