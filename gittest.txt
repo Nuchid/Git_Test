@@ -1,1 +1,6 @@
 Gitを使ってみます。
+
+
+developブランチに移り、ここで機能を追加する。
+
+次にdevelop branvhをコミットして、そのままmain branchにマージしてみます。
