@@ -8,3 +8,12 @@ push はmainとdevelopの両方。（mainにswitchせずにpushしたけど大�
 main branchでは先ほどのdevelop branchでの追加は見えません。
 
 ここまで書いたところでmain branchをadd,commitしてみます。
+
+そしてもう一度、main branchとdevelop branchをpushしました。
+ここまでは特に問題なくできていますね。
+
+さて、今度はここでmain branchにスイッチし、mergeしてみましょう。
+するとエラーが
+error: Your local changes to the following files would be overwritten by merge:
+そういえば、main branchに移ってからaddもcommitもしてませんでした。これは迂闊。
+では、add, commit,mergeの順にやり直してみます。
