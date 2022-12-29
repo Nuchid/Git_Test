@@ -22,6 +22,12 @@ error: Your local changes to the following files would be overwritten by merge:
 さて、下のテキスト（その１）のようにコンフリクトが起きてくれました。
 ファイルを修正してもう一度add,commitしてみましょう。
 
+ここで疑問が。
+mergeした後のdevelop branchはどうすればいいんでしょう？
+もう一回チェックアウトして上書きすればいいのかな？？
+
+ま、それはさておき、ここまでの変更をもう一度add,commit,pushしてしまいましょう。
+
 
 
 #####ここから下がコンフリクトしたファイルその１
